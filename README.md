@@ -70,5 +70,8 @@ cd ..
 .env\Scripts\python.exe python_scripts\analytics\data_analyzer.py
 ```
 
+## 📸 Project Screenshots
+To quickly review the program's operation, output, and key results (such as the Dual EMA Crossover signal and Volume chart), please check the files available in the /Screenshots folder.
+
 ## 👤 Author
 Luka Mikulić
