@@ -1,0 +1,4 @@
+build/
+db_setup/crypto_data.db
+venv/
+.vscode/
